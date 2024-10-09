@@ -7,4 +7,5 @@ Copy all files from OUTPUT_DIR to your KDEnlive project.
 
 # Variables to change
 **FRAME_RATE** - frame rate of your project (default = 30).<br>
-**OUTPUT_DIR** - folder name for saving .kdenlivetitle files (default = TITLES_FROM_PY).
+**OUTPUT_DIR** - folder name for saving .kdenlivetitle files (default = TITLES_FROM_PY).<br>
+**template**   - this is your example of what your livetitles should look like, just create it in KDEnlive and paste with {frame} and {text} to script.
